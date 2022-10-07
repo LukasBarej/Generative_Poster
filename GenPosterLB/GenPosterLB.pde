@@ -5,7 +5,7 @@
 // image by Filipp Romanovsky https://unsplash.com/photos/CGKYNN3uuVo
 //
 // author Lukasz Barej @LukasBarej
-//
+// https://github.com/LukasBarej/Generative_Poster/tree/main/GenPosterLB
 
 
 FlowField flowfield;
